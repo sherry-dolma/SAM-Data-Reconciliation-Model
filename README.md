@@ -1,3 +1,12 @@
+## Visual Proof of Work
+
+### 1. T-SQL Query Results Execution (SSMS)
+![SQL Execution Results](your_sql_screenshot_filename.png)
+
+### 2. Excel Software Compliance Summary (PivotTable)
+![Excel Pivot Summary](your_excel_screenshot_filename.png)
+
+
 # SAM-Data-Reconciliation-Model
 SAM-Data-Reconciliation-Model
 # Enterprise Software Asset Management (SAM) & Data Reconciliation Model
